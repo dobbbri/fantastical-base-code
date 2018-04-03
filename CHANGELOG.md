@@ -1,3 +1,6 @@
+### Version 0.2.0
+- ad logo and readme
+
 ### Version 0.1.0
 - fixes
 
