@@ -1,3 +1,6 @@
+### Version 0.2.1
+- remove theme
+
 ### Version 0.2.0
 - ad logo and readme
 
