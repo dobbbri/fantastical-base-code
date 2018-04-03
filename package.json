@@ -1,7 +1,7 @@
 {
   "name": "fantastical-base-code",
-  "displayName": "fantastical-base-code",
-  "description": "base extensions for code",
+  "displayName": "Fantastical Base Extension Pack",
+  "description": "Extension Pack base extensions for code",
   "version": "0.0.1",
   "publisher": "sldobri",
   "engines": {
@@ -13,6 +13,7 @@
   "extensionDependencies": [
     "SirTori.indenticator",
     "WakaTime.vscode-wakatime",
+    "DotJoshJohnson.xml",
     "aeschli.vscode-css-formatter",
     "fabiospampinato.vscode-bump",
     "kamikillerto.vscode-colorize",
