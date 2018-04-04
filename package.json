@@ -22,12 +22,9 @@
   "extensionDependencies": [
     "SirTori.indenticator",
     "WakaTime.vscode-wakatime",
-    "DotJoshJohnson.xml",
-    "aeschli.vscode-css-formatter",
     "fabiospampinato.vscode-bump",
     "kamikillerto.vscode-colorize",
     "ms-vscode.sublime-keybindings",
-    "msjsdiag.debugger-for-chrome",
     "nonoroazoro.syncing",
     "patbenatar.advanced-new-file",
     "sleistner.vscode-fileutils"
