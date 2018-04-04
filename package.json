@@ -2,7 +2,7 @@
   "name": "fantastical-base-code",
   "displayName": "Fantastical Base Extension Pack",
   "description": "Extension Pack base extensions for code",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "publisher": "sldobri",
   "engines": {
     "vscode": "^1.21.0"

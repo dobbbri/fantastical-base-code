@@ -1,3 +1,6 @@
+### Version 0.2.2
+- remove non used package
+
 ### Version 0.2.1
 - remove theme
 
