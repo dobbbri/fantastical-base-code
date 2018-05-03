@@ -20,7 +20,6 @@
     "Extension Packs"
   ],
   "extensionDependencies": [
-    "SirTori.indenticator",
     "WakaTime.vscode-wakatime",
     "fabiospampinato.vscode-bump",
     "kamikillerto.vscode-colorize",
