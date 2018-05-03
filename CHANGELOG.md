@@ -1,3 +1,7 @@
+### Version 0.2.4
+- remove extension SirTori.indenticator
+- add extension names in readme
+
 ### Version 0.2.3
 - fix name
 
