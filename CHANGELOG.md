@@ -1,3 +1,6 @@
+### Version 0.2.5
+- rermoved patbenatar.advanced-new-file and sleistner.vscode-fileutils
+
 ### Version 0.2.4
 - remove extension SirTori.indenticator replaced by new theme setting "editorIndentGuide.activeBackground"
 - add extension names in readme
