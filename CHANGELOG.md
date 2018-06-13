@@ -1,5 +1,5 @@
 ### Version 0.2.4
-- remove extension SirTori.indenticator
+- remove extension SirTori.indenticator replaced by new theme setting "editorIndentGuide.activeBackground"
 - add extension names in readme
 
 ### Version 0.2.3
